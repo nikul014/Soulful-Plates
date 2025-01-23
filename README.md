@@ -1,5 +1,8 @@
 # Soulful Plates
 
+
+![Screenshot 1](https://i.ibb.co/ZHw2SxJ/White-Green-Mobile-Mockup-Photo-Collage-Beauty-Facebook-Post-1.png)
+
 This project demonstrates building a secure mobile application with Spring Boot, utilizing JSON Web Tokens (JWT) for authentication. It showcases Spring Boot's streamlined approach to integrating security, data persistence, app services, and validation.
 
 This project demonstrates how to build a secure mobile application with Spring Boot using JSON Web Tokens (JWT) for authentication. It showcases the integration of security, data persistence (JPA), validation, and app services in a Spring Boot application, focusing on securing RESTful APIs with JWT.
@@ -252,18 +255,11 @@ Both user and seller application contains the Registration and authentication fl
     - Buyer will see the Login Screen as a starting point of the application and from where He/She can register or login to the application.
     - If Buyer is new to the application we will ask for location for which He/She wanted to create account.
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;"> <img src="https://i.ibb.co/rvnyD2Z/Buyer-Login.png" alt="Buyer Login" width="1278" height="590"> <img src="https://i.ibb.co/nbdjpjM/Sign-up-Screen.png" alt="Sign-up Screen" width="1278" height="590"> <img src="https://i.ibb.co/2vbk5zj/Reset-via-email.png" alt="Reset via Email" width="1278" height="590"> <img src="https://i.ibb.co/5sk0WMQ/Reset-password.png" alt="Reset Password" width="1278" height="590"> <img src="https://i.ibb.co/Jy0JHKn/Reset-password-fill.png" alt="Reset Password Fill" width="1278" height="590"> </div>
-
-[//]: # ()
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/rvnyD2Z/Buyer-Login.png&#41;)
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/nbdjpjM/Sign-up-Screen.png&#41;)
-
-[//]: # (![Screenshot-1]&#40;https://i.ibb.co/2vbk5zj/Reset-via-email.png&#41;)
-
-[//]: # (![Screenshot-1]&#40;https://i.ibb.co/5sk0WMQ/Reset-password.png&#41;)
-
-[//]: # (![Screenshot-1]&#40;https://i.ibb.co/Jy0JHKn/Reset-password-fill.png&#41;)
+![Screenshot 1](https://i.ibb.co/rvnyD2Z/Buyer-Login.png)
+![Screenshot 1](https://i.ibb.co/nbdjpjM/Sign-up-Screen.png)
+![Screenshot-1](https://i.ibb.co/2vbk5zj/Reset-via-email.png)
+![Screenshot-1](https://i.ibb.co/5sk0WMQ/Reset-password.png)
+![Screenshot-1](https://i.ibb.co/Jy0JHKn/Reset-password-fill.png)
 
 ### 2. Seller Profile, Store setup, update and showcase
 Seller will ask for insert the store details and the address details of the store and able to update it later form the store details screen.
@@ -271,108 +267,71 @@ Seller will ask for insert the store details and the address details of the stor
     - Seller will able to create the store.
     - Add the store address and able to edit the store details.
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;"> <img src="https://i.ibb.co/mTh0BtL/Seller-profile-SignIn.png" alt="Seller Profile SignIn" width="1278" height="590"> <img src="https://i.ibb.co/Ry80rmH/Seller-Profile-Add.png" alt="Seller Profile Add" width="1278" height="590"> <img src="https://i.ibb.co/Yj4HT7d/Seller-location.png" alt="Seller Location" width="1278" height="590"> <img src="https://i.ibb.co/mz4Mnxd/Seller-location-insert.png" alt="Seller Location Insert" width="1278" height="590"> <img src="https://i.ibb.co/BnscnzT/Seller-dashboard.png" alt="Seller Dashboard" width="1278" height="590"> </div>
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/mTh0BtL/Seller-profile-SignIn.png&#41;)
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/Ry80rmH/Seller-Profile-Add.png&#41;)
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/Yj4HT7d/Seller-location.png&#41;)
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/mz4Mnxd/Seller-location-insert.png&#41;)
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/BnscnzT/Seller-dashboard.png&#41;)
+![Screenshot 1](https://i.ibb.co/mTh0BtL/Seller-profile-SignIn.png)
+![Screenshot 1](https://i.ibb.co/Ry80rmH/Seller-Profile-Add.png)
+![Screenshot 1](https://i.ibb.co/Yj4HT7d/Seller-location.png)
+![Screenshot 1](https://i.ibb.co/mz4Mnxd/Seller-location-insert.png)
+![Screenshot 1](https://i.ibb.co/BnscnzT/Seller-dashboard.png)
 
 ### 3. Settings and Notifications
 User and Seller is able to update the notification preferences form the Settings screen where he can also able to use other feature of application.
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;"> <img src="https://i.ibb.co/3dnd8XS/Seller-Settings.png" alt="Seller Settings" width="1278" height="590"> <img src="https://i.ibb.co/qjJH8mb/Buyer-Setting.png" alt="Buyer Setting" width="1278" height="590"> </div>
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/3dnd8XS/Seller-Settings.png&#41;)
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/qjJH8mb/Buyer-Setting.png&#41;)
+![Screenshot 1](https://i.ibb.co/3dnd8XS/Seller-Settings.png)
+![Screenshot 1](https://i.ibb.co/qjJH8mb/Buyer-Setting.png)
 
 ### 4. Menu Creation and Management
 Seller is able to create the Menu and able to edit menu whenever needed such as enable or disable the items in stock and so on.
 - We have Category and then Subcategories and then Menu items inside sub category for more user friendly menu.
- <div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px;"> <img src="https://i.ibb.co/sWk50TW/Categorized-Menu-Item.png" alt="Categorized Menu Item" width="1278" height="590"> </div>
-
-[//]: # (- ![Screenshot 1]&#40;https://i.ibb.co/sWk50TW/Categorized-Menu-Item.png&#41;)
+  ![Screenshot 1](https://i.ibb.co/sWk50TW/Categorized-Menu-Item.png)
 
 ### 5. User Dashboard with Nearby Restaurants
 Buyer is able to see the Near by Restaurants based on his/her location. Nearby restaurants are visible on the Home screen of the Buyer application.
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;"> <img src="https://i.ibb.co/6vgWGj2/Buyer-Home-Screen.png" alt="Buyer Home Screen" width="1278" height="590"> <img src="https://i.ibb.co/kQ8PcSC/Restaurant.png" alt="Restaurant" width="1278" height="590"> </div>
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/6vgWGj2/Buyer-Home-Screen.png&#41;)
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/kQ8PcSC/Restaurant.png&#41;)
+![Screenshot 1](https://i.ibb.co/6vgWGj2/Buyer-Home-Screen.png)
+![Screenshot 1](https://i.ibb.co/kQ8PcSC/Restaurant.png)
 
 ### 6. Wishlist
 Buyer is able to include the items He/She likes into the wishlist and able to edit the wishlist when needed.
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;"> <img src="https://i.ibb.co/HV3dx9P/Wishlist.png" alt="Buyer Home Screen" width="1278" height="590"> <img src="https://i.ibb.co/kQ8PcSC/Restaurant.png" alt="Restaurant" width="1278" height="590"> </div>
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/HV3dx9P/Wishlist.png&#41;)
+![Screenshot 1](https://i.ibb.co/HV3dx9P/Wishlist.png)
 
 ### 7. User Profile and Location Management
 Buyer is able to include multiple address in the application so He/She can able to switch the delivery location. Buyer is able to edit the user profile later on.
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;"> <img src="https://i.ibb.co/2qPwdB6/Buyer-Saved-Location.png" alt="Buyer Saved Location" width="1278" height="590"> <img src="https://i.ibb.co/hHS97w7/Buyer-Profile.png" alt="Buyer Profile" width="1278" height="590"> </div>
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/2qPwdB6/Buyer-Saved-Location.png&#41;)
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/hHS97w7/Buyer-Profile.png&#41;)
+![Screenshot 1](https://i.ibb.co/2qPwdB6/Buyer-Saved-Location.png)
+![Screenshot 1](https://i.ibb.co/hHS97w7/Buyer-Profile.png)
 
 ### 8. Rating- Review for Order Seller Flagging system
 Buyer is able to rate the order after the order completion. Seller is able to see the order feedback and the rating in the order details screen.
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;"> <img src="https://i.ibb.co/sbNk2Cm/Feedback.png" alt="Buyer Home Screen" width="1278" height="590"> <img src="https://i.ibb.co/kQ8PcSC/Restaurant.png" alt="Restaurant" width="1278" height="590"> </div>
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/sbNk2Cm/Feedback.png&#41;)
+![Screenshot 1](https://i.ibb.co/sbNk2Cm/Feedback.png)
 
 ### 9. Order Tracking and Restaurant Listing
 Buyer is able to see the Live orders in the menu and also able to see the near by restaurant.
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;"> <img src="https://i.ibb.co/CK18VkZ/Transaction-Buyer.png" alt="Buyer Home Screen" width="1278" height="590"> <img src="https://i.ibb.co/kQ8PcSC/Restaurant.png" alt="Restaurant" width="1278" height="590"> </div>
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/CK18VkZ/Transaction-Buyer.png&#41;)
+![Screenshot 1](https://i.ibb.co/CK18VkZ/Transaction-Buyer.png)
 
 ### 10. Cart Management
 Buyer is able to add items from restaurant details screen to the cart and in the view cart screen buyer is able to edit items if needed and will be able to create the order.
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;"> <img src="https://i.ibb.co/KF4LqxK/View-cart.png" alt="View Cart" width="1278" height="590"> <img src="https://i.ibb.co/KrB8ZsP/Cart-Payment-Blank.png" alt="Cart Payment Blank" width="1278" height="590"> </div> <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;"> <img src="https://i.ibb.co/QPX4Sv0/Cart-Payment.png" alt="Cart Payment" width="1278" height="590"> <img src="https://i.ibb.co/vwxrg6k/Order-Success.png" alt="Order Success" width="1278" height="590"> </div>
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/KF4LqxK/View-cart.png&#41;)
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/KrB8ZsP/Cart-Payment-Blank.png&#41;)
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/QPX4Sv0/Cart-Payment.png&#41;)
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/vwxrg6k/Order-Success.png&#41;)
+![Screenshot 1](https://i.ibb.co/KF4LqxK/View-cart.png)
+![Screenshot 1](https://i.ibb.co/KrB8ZsP/Cart-Payment-Blank.png)
+![Screenshot 1](https://i.ibb.co/QPX4Sv0/Cart-Payment.png)
+![Screenshot 1](https://i.ibb.co/vwxrg6k/Order-Success.png)
 
 ### 11. Order and Transaction History: User
 Buyer is able to see the all previous order which are completed and also able to filter them. Buyer also able to see the transactions made from the application.
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;"> <img src="https://i.ibb.co/CK18VkZ/Transaction-Buyer.png" alt="Buyer Home Screen" width="1278" height="590"> <img src="https://i.ibb.co/9pbFKf4/Order-History-buyer.png" alt="Restaurant" width="1278" height="590"> </div>
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/9pbFKf4/Order-History-buyer.png&#41;)
+![Screenshot 1](https://i.ibb.co/9pbFKf4/Order-History-buyer.png)
 
 ### 12. Seller Dashboard with Statistics and Live Orders
 Seller is able to see the Live orders on the Home screen and able to switch the order status whenever needed apart from this seller is also able to call the user if needed.
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;"> <img src="https://i.ibb.co/P9FJ6Kj/Seller-Home-Screen.png" alt="Seller Home Screen" width="1278" height="590"> <img src="https://i.ibb.co/gttdCYY/Change-statistics-month-wise.png" alt="Statistics" width="1278" height="590"> </div>
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/P9FJ6Kj/Seller-Home-Screen.png&#41;)
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/gttdCYY/Change-statistics-month-wise.png&#41;)
+![Screenshot 1](https://i.ibb.co/P9FJ6Kj/Seller-Home-Screen.png)
+![Screenshot 1](https://i.ibb.co/gttdCYY/Change-statistics-month-wise.png)
 
 ### 13. Order, Payment and Transactions Histories: Seller
 Seller is able to see all the previous orders, payments made by buyers and the transaction history in the history screen.
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;"> <img src="https://i.ibb.co/jDp8P0F/Seller-Transaction-with-filters.png" alt="Seller Transaction Filters" width="1278" height="590"> <img src="https://i.ibb.co/ncrkJ9B/Seller-Transaction.png" alt="Seller Transaction" width="1278" height="590"> </div>
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/jDp8P0F/Seller-Transaction-with-filters.png&#41;)
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/ncrkJ9B/Seller-Transaction.png&#41;)
+![Screenshot 1](https://i.ibb.co/jDp8P0F/Seller-Transaction-with-filters.png)
+![Screenshot 1](https://i.ibb.co/ncrkJ9B/Seller-Transaction.png)
 
 ### 14. Order Listing and Management
 Seller will able to see the Live order in the application and able to track the status whenever needed.
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;"> <img src="https://i.ibb.co/R68BCfs/Live-Order-status-change.png" alt="Live Order Status Change" width="1278" height="590"> <img src="https://i.ibb.co/RSNjDCD/Order-History-Completed.png" alt="Order History Completed" width="1278" height="590"> <img src="https://i.ibb.co/vmwQW8C/Order-history-for-Seller.png" alt="Order History Seller" width="1278" height="590"> </div>
-
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/R68BCfs/Live-Order-status-change.png&#41;)
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/RSNjDCD/Order-History-Completed.png&#41;)
-[//]: # (![Screenshot 1]&#40;https://i.ibb.co/vmwQW8C/Order-history-for-Seller.png&#41;)
+![Screenshot 1](https://i.ibb.co/R68BCfs/Live-Order-status-change.png)
+![Screenshot 1](https://i.ibb.co/RSNjDCD/Order-History-Completed.png)
+![Screenshot 1](https://i.ibb.co/vmwQW8C/Order-history-for-Seller.png)
 
 ## License
 
